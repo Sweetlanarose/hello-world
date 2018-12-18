@@ -1,2 +1,2 @@
 # hello-world
-initial repository
+initial repository;
